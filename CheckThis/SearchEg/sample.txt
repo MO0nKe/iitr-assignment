@@ -1,0 +1,1 @@
+This directory contains images to demonstrate the search and highlight functionality.
