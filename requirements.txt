@@ -1,0 +1,7 @@
+GPUtil
+torch
+accelerate==0.30.1
+git+https://github.com/huggingface/transformers
+qwen-vl-utils
+torchvision
+byaldi
